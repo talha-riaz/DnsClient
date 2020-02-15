@@ -16,7 +16,7 @@ Example: <br/>
 `java DnsClient -t 3 -r 4 @8.8.8.8 www.github.com`
 
 Required tags: <br/>
-`server`: is the IPv4 address of the DNS server, in A.B.C.D format (example 168.260.85.18) <br/>
+`server`: is the IPv4 address of the DNS server, in A.B.C.D format (example 168.200.85.18) <br/>
 `name`: is the domain to query for (example www.github.com) <br/>
 <br/>
 
