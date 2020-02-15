@@ -27,6 +27,6 @@ Optional tags: <br/>
 `-mx` or `-ns` (MX: mail server OR NS: name server): indicate whether to send a MX or NS query. At most one of these can be given, and if neither is given then the client sends a type A (IP address) query by default. 
 
 ## Background
-Broadly, a Domain Name System (DNS) Client is any computer that issues DNS queries to a Domain Name System (DNS) Server. DNS Resolver is a software service running on any computer. DNS Resolver service forwards DNS Queries to the DNS Server for Name Resolution, on behalf of Operating System and other applications.<br/>
+Broadly, a Domain Name System (DNS) Client is any computer that issues DNS queries to a Domain Name System (DNS) Server. <br/>
 This implementation of the DNS Client can issue requests to the DNS Server that transmit in the form of <a href="https://en.wikipedia.org/wiki/Network_packet">packets</a> through the <a href="https://en.wikipedia.org/wiki/Network_socket">socket</a>. The requests that can be issued have been documented above. 
 
