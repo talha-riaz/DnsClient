@@ -7,12 +7,12 @@ An implementation of a DNS Client in Java using sockets.
 ## How to use
 1. Clone the repository
 2. Navigate to src directory using the Terminal
-3. Run the following command to compile the program:
+3. Run the following command to compile the program: <br/>
 `javac *.java`
-4. Use the following command to run the client:
+4. Use the following command to run the client: <br/>
 `java DnsClient [-t timeout] [-r max-retries] [-p port] [-mx|-ns] @server name`
 
-Example:
+Example: <br/>
 `java DnsClient -t 3 -r 4 @8.8.8.8 www.github.com`
 
 Optional tags:
