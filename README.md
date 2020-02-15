@@ -1,12 +1,12 @@
 # DnsClient
 
-<img src="https://github.com/talha-riaz/DnsClient/blob/master/img/img1.png" height="250" width="600"/>
+<img src="https://github.com/talha-riaz/DnsClient/blob/master/img/img1.png" height="250" width="650"/>
 
 An implementation of a DNS Client in Java using sockets.
 
 ## How to use
 1. Clone the repository
-2. Navigate to src directory using the Terminal
+2. Navigate to `src` directory using the Terminal
 3. Run the following command to compile the program: <br/>
 `javac *.java`
 4. Use the following command to run the client: <br/>
