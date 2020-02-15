@@ -28,5 +28,5 @@ Optional tags: <br/>
 
 ## Background
 Broadly, a Domain Name System (DNS) Client is any computer that issues DNS queries to a Domain Name System (DNS) Server. DNS Resolver is a software service running on any computer. DNS Resolver service forwards DNS Queries to the DNS Server for Name Resolution, on behalf of Operating System and other applications.
-This implementation of the DNS Client can issue requests to the DNS Server that transmit in the form of [packets]: https://en.wikipedia.org/wiki/Network_packet through the [packets]: https://en.wikipedia.org/wiki/Network_socket. The requests that can be issued have been documented above. 
+This implementation of the DNS Client can issue requests to the DNS Server that transmit in the form of <a href="https://en.wikipedia.org/wiki/Network_packet">sockets</a> through the <a href="https://en.wikipedia.org/wiki/Network_socket">sockets</a>. The requests that can be issued have been documented above. 
 
